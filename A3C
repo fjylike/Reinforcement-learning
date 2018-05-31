@@ -7,7 +7,7 @@ tensorflow r1.3
 gym 0.8.0
 """
 
-import multiprocessing
+
 import threading
 import tensorflow as tf
 import numpy as np
